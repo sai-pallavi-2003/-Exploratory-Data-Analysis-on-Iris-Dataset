@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Iris-Dataset
+# ExploratoryDataAnalysis_on-IrisDataset
 
 EDA is the process of investigating the dataset to discover patterns, and anomalies (outliers), and form hypotheses based on our understanding of the dataset.
 
